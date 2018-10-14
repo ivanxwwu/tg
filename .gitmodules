@@ -1,0 +1,3 @@
+[submodule "tg2"]
+	path = tg2
+	url = https://github.com/ivanxwwu/tg2.git
